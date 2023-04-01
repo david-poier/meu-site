@@ -20,6 +20,7 @@
     gap: 0.5rem;
     border-bottom: solid 1px #aaa;
     background-color: #eee;
+    align-items: center;
   }
   
   nav a {
