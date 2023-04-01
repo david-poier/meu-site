@@ -53,7 +53,7 @@
     height: 30px;
     width: 100%;
     top: 5px;
-    position: fixed;
+    position: relative;
   }
   .selected {
     background-color: gray;
