@@ -3,13 +3,15 @@
   }
   
   body {
-    height: 100px;
+    height: 100vh;
     margin: 0;
     font-family: system-ui, sans-serif;
     color: black;
     background-color: white;
     background-image: url("campeão.jpg");
     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
   }
   
   nav {
