@@ -3,4 +3,10 @@
         height: 65px;
         width: 100%;
     }
+    body{
+        background-image: url("campeao.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: bottom;
+    }
 }
